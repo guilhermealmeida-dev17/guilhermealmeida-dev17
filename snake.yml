@@ -18,7 +18,7 @@ jobs:
       - name: Generate contribution snake
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: Almeida17-csharp
+          github_user_name: guilhermealmeida-dev17
           outputs: dist/github-contribution-grid-snake.svg?palette=github-dark
 
       - name: Publish snake to output branch
@@ -28,3 +28,4 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
