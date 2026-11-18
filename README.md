@@ -6,7 +6,7 @@
 
 <br />
 
-<a href="https://github.com/guilhermealmeida-dev17"><img src="https://img.shields.io/badge/GitHub-guilhermealmeida-dev17-0D1117?style=for-the-badge&logo=github&logoColor=7B2EFF" alt="GitHub" /></a>
+<a href="https://github.com/guilhermealmeida-dev17"><img src="https://img.shields.io/badge/GitHub-guilhermealmeida--dev17-0D1117?style=for-the-badge&logo=github&logoColor=7B2EFF" alt="GitHub" /></a>
 <img src="https://img.shields.io/badge/FOCO-BACKEND-0D1117?style=for-the-badge&labelColor=0D1117&color=7B2EFF" alt="Foco em backend" />
 
 </div>
