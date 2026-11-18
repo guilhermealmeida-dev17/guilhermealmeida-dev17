@@ -1,8 +1,3 @@
-<!--
-  README do perfil de Guilherme Almeida
-  Para ativar: crie um repositório público chamado guilhermealmeida-dev17
-  e coloque este arquivo na raiz.
--->
 
 <div align="center">
 
@@ -23,7 +18,7 @@
 
 ```text
 Sou Guilherme, desenvolvedor em formação com foco em backend.
-Tenho praticado C#/.NET por meio de projetos próprios e estou estudando Java.
+Tenho praticado C#/.NET e Java por meio de projetos próprios.
 Gosto de transformar conceitos de programação em aplicações funcionais,
 com atenção à lógica, organização e evolução constante.
 ```
